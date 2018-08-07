@@ -1,2 +1,3 @@
 # hello-world
-First repository ohhh-yeaaah!
+First repository oh-yeah!
+Hello people, this is the beginning of a journey!
